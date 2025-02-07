@@ -243,7 +243,7 @@ python-bidi==0.6.3
 python-crfsuite==0.9.11
 python-dateutil==2.9.0.post0
 python-docx==1.1.2
-pytools==2024.1.16
+pytools==2024.1.14
 pytweening==1.2.0
 pytz==2024.1
 pywin32==306
