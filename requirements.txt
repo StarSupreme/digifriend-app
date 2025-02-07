@@ -62,7 +62,7 @@ einops==0.8.0
 elevenlabs==1.50.3
 encodec==0.1.1
 executing==2.0.1
-facenet-pytorch==2.6.0
+facenet-pytorch
 fastavro==1.9.7
 fer==22.5.1
 ffmpeg==1.4
