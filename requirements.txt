@@ -205,7 +205,7 @@ preshed==3.0.9
 proglog==0.1.10
 prompt_toolkit==3.0.47
 proto-plus==1.24.0
-protobuf==3.20.2
+protobuf
 psutil==6.0.0
 pure-eval==0.2.2
 py-cpuinfo==9.0.0
