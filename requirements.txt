@@ -89,8 +89,8 @@ graphql-core==3.2.4
 graphql-relay==3.2.0
 greenlet==3.1.1
 groq==0.11.0
-grpcio==1.66.2
-grpcio-status==1.66.2
+grpcio
+grpcio-status
 gruut==2.2.3
 gruut-ipa==0.13.0
 gruut-lang-de==2.0.1
